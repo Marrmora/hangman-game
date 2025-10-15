@@ -1,6 +1,6 @@
 # Hangman Game 
 
-A simple Hangman game written in Python. (:)-/-/
+A simple Hangman game written in Python (:)-/-/
 
 ## 🎮 How to Play
 - The program randomly chooses a word.
